@@ -9,3 +9,8 @@ print(options[2])
 print(options[0:3])
 print(options[-1])
 
+print()
+options[3:] = "trackball"
+print(options)
+options[3:] = ["trackball"]
+print(options)
