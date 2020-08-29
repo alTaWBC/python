@@ -10,8 +10,8 @@ print(max(odd))
 print(min(odd))
 print()
 
-print("mississipi".count("issi"))
-print("mississipi".count("iss"))
+print("mississippi".count("issi"))
+print("mississippi".count("iss"))
 
 even.extend(odd)
 print(even)

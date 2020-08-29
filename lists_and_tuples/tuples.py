@@ -23,7 +23,7 @@ title, artist, year = metallica
 print(title, artist, year, sep="\n")
 
 # Example of tuple confusion
-table = ("Coffe Table", 200, 100, 75, 34.50)
+table = ("Coffee Table", 200, 100, 75, 34.50)
 print(table[1] * table[2])
 
 name, length, width, height, price = table
@@ -33,7 +33,7 @@ albums = [
     ("Welcome to my Nightmate", "Alice Cooper", 1975,),
     ("Bad Company", "Bad Company", 1974,),
     ("Nightflight", "Budgie", 1981,),
-    ("More Mayhem", "Emilda May", 2011,),
+    ("More Mayhem", "Emilia May", 2011,),
     ("Ride the Lightning", "Metallica", 1984,),
 ]
 
